@@ -1,14 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 30" width="120" height="30" fill="#000000">
-  <circle cx="15" cy="15" r="18" fill="#FFB6C1">
-    <animate attributeName="r" from="18" to="18" begin="0s" dur="0.8s" values="18;14;18" keyTimes="0;0.5;1" repeatCount="indefinite" />
-    <animate attributeName="fill-opacity" from="1" to="1" begin="0s" dur="0.8s" values="1;0.7;1" keyTimes="0;0.5;1" repeatCount="indefinite" />
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 45" width="180" height="45" fill="#000000">
+  <circle cx="30" cy="22.5" r="18" fill="#FFB6C1">
+    <animate attributeName="cy" from="22.5" to="22.5" begin="0s" dur="1s" values="22.5;10;22.5" keyTimes="0;0.5;1" repeatCount="indefinite" />
   </circle>
-  <circle cx="60" cy="15" r="18" fill="#ADD8E6">
-    <animate attributeName="r" from="18" to="18" begin="0.2s" dur="0.8s" values="18;14;18" keyTimes="0;0.5;1" repeatCount="indefinite" />
-    <animate attributeName="fill-opacity" from="1" to="1" begin="0.2s" dur="0.8s" values="1;0.7;1" keyTimes="0;0.5;1" repeatCount="indefinite" />
+  <circle cx="90" cy="22.5" r="18" fill="#ADD8E6">
+    <animate attributeName="cy" from="22.5" to="22.5" begin="0.2s" dur="1s" values="22.5;10;22.5" keyTimes="0;0.5;1" repeatCount="indefinite" />
   </circle>
-  <circle cx="105" cy="15" r="18" fill="#98FB98">
-    <animate attributeName="r" from="18" to="18" begin="0.4s" dur="0.8s" values="18;14;18" keyTimes="0;0.5;1" repeatCount="indefinite" />
-    <animate attributeName="fill-opacity" from="1" to="1" begin="0.4s" dur="0.8s" values="1;0.7;1" keyTimes="0;0.5;1" repeatCount="indefinite" />
+  <circle cx="150" cy="22.5" r="18" fill="#98FB98">
+    <animate attributeName="cy" from="22.5" to="22.5" begin="0.4s" dur="1s" values="22.5;10;22.5" keyTimes="0;0.5;1" repeatCount="indefinite" />
   </circle>
 </svg>
