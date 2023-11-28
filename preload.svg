@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 45" width="180" height="45" fill="#000000">
-  <circle cx="30" cy="22.5" r="18" fill="#FFB6C1">
-    <animate attributeName="cy" from="22.5" to="22.5" begin="0s" dur="1s" values="22.5;10;22.5" keyTimes="0;0.5;1" repeatCount="indefinite" />
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 90" width="180" height="90" fill="#000000">
+  <circle cx="30" cy="45" r="27" fill="#FFB6C1">
+    <animate attributeName="cy" from="45" to="45" begin="0s" dur="1s" values="45;15;45" keyTimes="0;0.5;1" repeatCount="indefinite" />
   </circle>
-  <circle cx="90" cy="22.5" r="18" fill="#ADD8E6">
-    <animate attributeName="cy" from="22.5" to="22.5" begin="0.2s" dur="1s" values="22.5;10;22.5" keyTimes="0;0.5;1" repeatCount="indefinite" />
+  <circle cx="90" cy="45" r="27" fill="#ADD8E6">
+    <animate attributeName="cy" from="45" to="45" begin="0.2s" dur="1s" values="45;15;45" keyTimes="0;0.5;1" repeatCount="indefinite" />
   </circle>
-  <circle cx="150" cy="22.5" r="18" fill="#98FB98">
-    <animate attributeName="cy" from="22.5" to="22.5" begin="0.4s" dur="1s" values="22.5;10;22.5" keyTimes="0;0.5;1" repeatCount="indefinite" />
+  <circle cx="150" cy="45" r="27" fill="#98FB98">
+    <animate attributeName="cy" from="45" to="45" begin="0.4s" dur="1s" values="45;15;45" keyTimes="0;0.5;1" repeatCount="indefinite" />
   </circle>
 </svg>
